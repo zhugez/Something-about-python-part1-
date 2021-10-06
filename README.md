@@ -1,4 +1,4 @@
-# Welcome to All-about-python by myself
+# Welcome to Something-about-python by myself
 ## You will find in this repo:
 - Some importance in python ...
 
